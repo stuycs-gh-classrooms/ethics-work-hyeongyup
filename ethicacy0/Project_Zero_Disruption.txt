@@ -1,3 +1,10 @@
+Issue)  Is disruption a viable and good business model?
+
+Disruption has become more widely used as a business model as technology advances and becomes more accessible to the public. This has allowed people
+to develop more technology, some of which change the market drastically, making it disruptive, and some fail. Although disruption is often innovative
+and helps to advance technology, do these advances outweigh the failures and are these advances always beneficial?
+
+
 Sources
 1) https://www.indeed.com/career-advice/career-development/disruptive-technology
 	- Example of disruption-based business models with advantages and disadvantages
@@ -21,29 +28,17 @@ Sources
 	- Information on problems with ChatGPT
 
 
-1) Two major problems with using disruption as a business model are that it often leads to unrefined products with many "clunky prototypes" and disruption is a risky 
-   business model because there are many early performance problems with new technology and adaptation to that technology. Disruption businesses also lack the credibility 
-   of already existing products and their effectiveness may be doubted. Ex: Electric mixers - Cooks doubted if they could mix as well as their hands
+1) Two major problems with using disruption as a business model are that it often leads to unrefined products with many "clunky prototypes" and disruption is a risky business model because there are many early performance problems with new technology and adaptation to that technology. Disruption businesses also lack the credibility of already existing products and their effectiveness may be doubted. Ex: Electric mixers - Cooks doubted if they could mix as well as their hands
 
-2) Disruption is very unpredictable and makes it harder to predict the direction of a business. Harder to plan for and mitigate risks. Harder to calculate success and 
-   prepare for events in the future. In addition, results take time because it takes years of research and development to use new technology and create new technology.
-   Disruption also changes markets drastically, replacing old, less efficient products and services. Ex: Shift from physical stores to online shopping.
+2) Disruption is very unpredictable and makes it harder to predict the direction of a business. Harder to plan for and mitigate risks. Harder to calculate success and prepare for events in the future. In addition, results take time because it takes years of research and development to use new technology and create new technology. Disruption also changes markets drastically, replacing old, less efficient products and services. Ex: Shift from physical stores to online shopping.
 
-3) Amazon's strength in the online marketplace, convenience, cost, and fulfillment make it very strong as a business. The smartphone combined many types of technology to 
-   create a whole new product that changed the world completely. Many other businesses followed their examples and created their own smartphones. Uber took advantage of
-   technology by using a mobile app that made it more efficient than other forms of transportation, giving it an edge over competitors
+3) Amazon's strength in the online marketplace, convenience, cost, and fulfillment make it very strong as a business. The smartphone combined many types of technology to create a whole new product that changed the world completely. Many other businesses followed their examples and created their own smartphones. Uber took advantage of technology by using a mobile app that made it more efficient than other forms of transportation, giving it an edge over competitors
 
-4) Amazon led to the fall of many independent businesses (between 2007 and 2017 the number of small retailers fell by 65 thousand and 40 percent of the nation’s small 
-   apparel, toy, and sporting goods makers disappeared, along with about one-third of small book publishers.) Amazon is dominant in online shopping, capturing 50 percent
-   of online shopping in the US. Changes in Amazon's policies and algorithms can ruin or raise sales.
+4) Amazon led to the fall of many independent businesses (between 2007 and 2017 the number of small retailers fell by 65 thousand and 40 percent of the nation’s small apparel, toy, and sporting goods makers disappeared, along with about one-third of small book publishers.) Amazon is dominant in online shopping, capturing 50 percent of online shopping in the US. Changes in Amazon's policies and algorithms can ruin or raise sales.
 
-5) Uber pushed through many obstacles during its initial global expansions. This would help them to expand but also get them in major trouble and scandals. They entered 
-   many new markets through the use of legal loopholes. They monopolized in many areas and undermined the competition. They were very aggressive which both helped and hurt 
-   them. Using technology to provide a better experience for both riders and drivers helped them to beat other competition
+5) Uber pushed through many obstacles during its initial global expansions. This would help them to expand but also get them in major trouble and scandals. They entered many new markets through the use of legal loopholes. They monopolized in many areas and undermined the competition. They were very aggressive which both helped and hurt them. Using technology to provide a better experience for both riders and drivers helped them to beat other competition
 
-6) For companies classified as startups due to their innovative and potentially disruptive product, around 90 percent fail within the first 10 years. Products are not very 
-   well thought out or made
+6) For companies classified as startups due to their innovative and potentially disruptive product, around 90 percent fail within the first 10 years. Products are not very well thought out or made
 
-7) ChatGPT and other generative AI have many problems including accuracy issues due to its preference to make up information rather than give up, bias issues, creation of new content from AI, 
-   cybersecurity issues as weaker code is made and more convincing scams are made, intellectual property issues, and the issues with use of AI in work.
+7) ChatGPT and other generative AI have many problems including accuracy issues due to its preference to make up information rather than give up, bias issues, creation of new content from AI, cybersecurity issues as weaker code is made and more convincing scams are made, intellectual property issues, and the issues with use of AI in work.
    
